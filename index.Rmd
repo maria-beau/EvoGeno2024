@@ -1,0 +1,13 @@
+---
+title: "Home page"
+author: "Maria Beaulieu"
+date: "2024-02-22"
+output: html_document
+---
+
+THIS IS MARIA'S EVO GENO HOME PAGE, WELCOME! :) 
+
+![Motorcycle Frog](images/IMG-4305.jpeg)
+
+
+
